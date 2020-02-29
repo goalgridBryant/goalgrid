@@ -1,7 +1,5 @@
-<html>
-<body>
-  
-  <div class="nav">
+
+<div class="nav">
 <nav>
   <ul>
     <li><a href="https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html" id="intro">Match Report</a></li>
@@ -13,8 +11,3 @@
 <h3>A framework for reproducible Expected Goals-based analysis in soccer.</h3>
 
 <p><a href="https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html">Test Match Report</a></p>
-  
- 
-  
-</body>
-</html>
