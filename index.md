@@ -2,7 +2,7 @@
 <nav>
 <a href="https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html" id="reports">Match Report</a> |
 <a href="https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html" id="package">Python Package</a> |
-<a href="https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html" id="team">Goalgrid Team</a> |
+<a href="https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html" id="contact">Contact Us</a> 
 </nav>
 
 <br>
