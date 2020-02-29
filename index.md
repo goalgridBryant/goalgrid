@@ -8,5 +8,7 @@ My first paragraph.
 
 NOW
 
+<p><a href="https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html">Test Match Report</a></p>
+
 </body>
 </html>
