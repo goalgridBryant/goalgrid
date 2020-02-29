@@ -1,12 +1,8 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-My first paragraph. 
-
-[Test Match Report](https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html)
-
-NOW
+<h1>Goalgrid</h1>
+<h3>A framework for reproducible Expected Goals-based analysis in soccer.</h3>
 
 <p><a href="https://goalgridbryant.github.io/goalgrid.github.io/validation_match_report_template.html">Test Match Report</a></p>
 
