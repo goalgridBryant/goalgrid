@@ -10,5 +10,5 @@
 <h1>Goalgrid</h1>
 <h3>A framework for reproducible Expected Goals-based analysis in soccer.</h3>
 
-<p><a href="https://goalgrid.soccer/validation_match_report_template.html">Test Match Report</a></p>
+<p><a href="https://www.goalgrid.soccer/validation_match_report_template.html">Test Match Report</a></p>
 HTTPS please
